@@ -1,0 +1,1 @@
+This is the repository to show the CS4415 Network Security course final project, in which we developed a simple version of an Intrusion Detection System (IDS) for detecting a simulated Denial of Service (DoS) attack against an Apache web server.
